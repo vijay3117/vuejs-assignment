@@ -1,0 +1,13 @@
+body {
+    background: #F5F5F5;
+    color: #333;
+}
+
+#page {
+    background: #FFF;
+    padding: 5rem;
+}
+
+.error {
+    color: red;
+}
